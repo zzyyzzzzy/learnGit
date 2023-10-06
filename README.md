@@ -1,10 +1,5 @@
 # learnGit
 asdf
-asdf
-gdfs
 
-1:23pm
-r
 
-asdff
-asdfadsf
+I resolved merge conflicts
