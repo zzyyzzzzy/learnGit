@@ -1,5 +1,6 @@
 # learnGit
 asdf
 
+4:04
 
-I resolved merge conflicts
+4:04-2
