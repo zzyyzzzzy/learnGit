@@ -1,6 +1,5 @@
 # learnGit
 asdf
-1234
 
 
 I resolved merge conflicts
